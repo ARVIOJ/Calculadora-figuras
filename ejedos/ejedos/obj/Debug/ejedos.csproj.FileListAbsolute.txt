@@ -1,0 +1,9 @@
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\bin\Debug\ejedos.exe.config
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\bin\Debug\ejedos.exe
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\bin\Debug\ejedos.pdb
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\obj\Debug\ejedos.csprojResolveAssemblyReference.cache
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\obj\Debug\ejedos.Form1.resources
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\obj\Debug\ejedos.Properties.Resources.resources
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\obj\Debug\ejedos.csproj.GenerateResource.Cache
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\obj\Debug\ejedos.exe
+D:\ARVIOJ\proyectosUNI\VisualSproyectosProjects\ejedos\ejedos\obj\Debug\ejedos.pdb
